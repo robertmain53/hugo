@@ -23,3 +23,5 @@ fields:
 - type: field_group_list
   name: fields
   label: fields
+pages:
+- ".circleci/_posts/test-post.md"
