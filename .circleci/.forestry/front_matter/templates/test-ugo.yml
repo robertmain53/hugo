@@ -24,4 +24,4 @@ fields:
   name: fields
   label: fields
 pages:
-- ".circleci/_posts/test-post.md"
+- ".circleci/_posts/2018-09-19-test-post.md"
