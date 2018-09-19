@@ -1,0 +1,25 @@
+---
+label: test ugo
+hide_body: false
+is_partial: false
+fields:
+- type: textarea
+  name: sezione_1
+  label: sezione 1
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: file
+  name: foto1
+  label: foto1
+- type: textarea
+  name: testo_2
+  label: testo 2
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: field_group_list
+  name: fields
+  label: fields
